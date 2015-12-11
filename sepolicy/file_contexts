@@ -6,5 +6,6 @@
 
 /data/misc/perfd/mpctl                                  u:object_r:perf_data_file:s0
 
-# WiFi
-/dev/rfkill    u:object_r:wpa_device:s0
+# GPU
+/sys/devices/platform/kgsl-3d0\.0/kgsl/kgsl-3d0/gpuclk                            u:object_r:sysfs_thermal:s0
+/sys/devices/platform/kgsl-3d0\.0/kgsl/kgsl-3d0/max_gpuclk                        u:object_r:sysfs_thermal:s0
