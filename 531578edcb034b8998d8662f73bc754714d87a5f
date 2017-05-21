@@ -1,0 +1,67 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "f2315d29_64388f67",
+        "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 357,
+      "author": {
+        "id": 1000011
+      },
+      "writtenOn": "2017-05-21T15:16:00Z",
+      "side": 1,
+      "message": "This was replaced with config_longPressOnHomeKeyBehavior",
+      "revId": "531578edcb034b8998d8662f73bc754714d87a5f",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7fdb3f13_381f7112",
+        "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 399,
+      "author": {
+        "id": 1000011
+      },
+      "writtenOn": "2017-05-21T15:16:00Z",
+      "side": 1,
+      "message": "All these are supported (by framework)",
+      "range": {
+        "startLine": 375,
+        "startChar": 0,
+        "endLine": 399,
+        "endChar": 61
+      },
+      "revId": "531578edcb034b8998d8662f73bc754714d87a5f",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "682b4f9f_c2e57fc5",
+        "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 441,
+      "author": {
+        "id": 1000011
+      },
+      "writtenOn": "2017-05-21T15:16:00Z",
+      "side": 1,
+      "message": "Supported too",
+      "range": {
+        "startLine": 440,
+        "startChar": 0,
+        "endLine": 441,
+        "endChar": 61
+      },
+      "revId": "531578edcb034b8998d8662f73bc754714d87a5f",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad",
+      "unresolved": false
+    }
+  ]
+}
