@@ -403,7 +403,8 @@ service qmuxd /system/bin/qmuxd
 
 service netmgrd /system/bin/netmgrd
     class main
-    group radio
+    user root
+    group radio readproc system wakelock
 
 service sensors /system/bin/sensors.qcom
     class late_start
