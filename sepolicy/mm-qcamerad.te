@@ -1,1 +1,3 @@
 allow mm-qcamerad system_data_file:dir { add_name create write };
+# For text relocations in /system/vendor/lib/libmmcamera_faceproc.so
+allow mm-qcamerad system_file:file execmod;
