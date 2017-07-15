@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7af50523_26825e03",
+        "filename": "sepolicy/priv_app.te",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1000070
+      },
+      "writtenOn": "2017-07-15T08:39:41Z",
+      "side": 1,
+      "message": "Which app is trying to read the mac address from sysfs?\nSounds weird to me.",
+      "revId": "748f2dc993035e79d9a8455edd8cabf4ba8f0559",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ab3b3d8f_ecec8e90",
+        "filename": "sepolicy/priv_app.te",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1000070
+      },
+      "writtenOn": "2017-07-15T08:39:41Z",
+      "side": 1,
+      "message": "What is \"device\" here?\nLooks like this should be labeled instead.",
+      "revId": "748f2dc993035e79d9a8455edd8cabf4ba8f0559",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad",
+      "unresolved": false
+    }
+  ]
+}
