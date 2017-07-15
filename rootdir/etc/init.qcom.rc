@@ -403,6 +403,7 @@ service qmuxd /system/bin/qmuxd
 
 service netmgrd /system/bin/netmgrd
     class main
+    group radio
 
 service sensors /system/bin/sensors.qcom
     class late_start
