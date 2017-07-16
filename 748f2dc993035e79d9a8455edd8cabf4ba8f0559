@@ -51,6 +51,24 @@
       "revId": "748f2dc993035e79d9a8455edd8cabf4ba8f0559",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "d9b21b58_1bb087aa",
+        "filename": "sepolicy/priv_app.te",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1000002
+      },
+      "writtenOn": "2017-07-16T06:45:06Z",
+      "side": 1,
+      "message": "This is the denial:\n07-16 00:32:08.264  2562  2562 I auditd  : type\u003d1400 audit(0.0:1354): avc: denied { read } for comm\u003d\"Binder:2551_1\" name\u003d\"/\" dev\u003d\"tmpfs\" ino\u003d10050 scontext\u003du:r:priv_app:s0:c512,c768 tcontext\u003du:object_r:device:s0 tclass\u003ddir permissive\u003d0",
+      "parentUuid": "dce435aa_feafd45e",
+      "revId": "748f2dc993035e79d9a8455edd8cabf4ba8f0559",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad",
+      "unresolved": false
     }
   ]
 }
