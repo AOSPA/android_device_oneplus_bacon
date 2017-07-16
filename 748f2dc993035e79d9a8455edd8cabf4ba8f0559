@@ -33,6 +33,24 @@
       "revId": "748f2dc993035e79d9a8455edd8cabf4ba8f0559",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dce435aa_feafd45e",
+        "filename": "sepolicy/priv_app.te",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1000002
+      },
+      "writtenOn": "2017-07-16T06:30:40Z",
+      "side": 1,
+      "message": "I\u0027m seeing the same denial on bullhead after switching it to caf sepolicy.",
+      "parentUuid": "ab3b3d8f_ecec8e90",
+      "revId": "748f2dc993035e79d9a8455edd8cabf4ba8f0559",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad",
+      "unresolved": false
     }
   ]
 }
