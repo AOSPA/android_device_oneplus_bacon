@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "b7015e25_dca6dced",
+        "filename": "sepolicy/priv_app.te",
+        "patchSetId": 2
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1000070
+      },
+      "writtenOn": "2017-07-17T08:11:37Z",
+      "side": 1,
+      "message": "This should be labeled.",
+      "revId": "360e50364c37da84c3fc1e4092de84d41e8b9c3a",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad",
+      "unresolved": false
+    }
+  ]
+}
